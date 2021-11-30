@@ -1,0 +1,8 @@
+﻿  Matrix.cpp
+C:\Users\admin\source\repos\attemptDll\attemptDll\Matrix.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\attemptDll\attemptDll\Matrix.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\attemptDll\attemptDll\Matrix.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\admin\source\repos\attemptDll\attemptDll\Matrix.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+  dllmain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library C:\Users\admin\source\repos\attemptDll\Debug\attemptDll.lib and object C:\Users\admin\source\repos\attemptDll\Debug\attemptDll.exp
+  attemptDll.vcxproj -> C:\Users\admin\source\repos\attemptDll\Debug\attemptDll.dll
